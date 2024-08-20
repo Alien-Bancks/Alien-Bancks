@@ -1,5 +1,7 @@
 # Olá! me chamo Aline 👋
 
+<img src=""/>
+
 ### 💼 Voluntária em um projeto atuando no Back-End
 ### 💻 Tecnologias que eu uso:
 <p align="left">
