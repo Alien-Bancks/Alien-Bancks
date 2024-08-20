@@ -1,6 +1,6 @@
 # Olá! me chamo Aline 👋
 
-<img src=""/>
+<img src="wojak.png"/>
 
 ### 💼 Voluntária em um projeto atuando no Back-End
 ### 💻 Tecnologias que eu uso:
