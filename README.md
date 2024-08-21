@@ -2,7 +2,7 @@
 
 <img src="wojakk.png"/>
 
-### 💼 Voluntária no projeto "App - eu visto" atuando no Back-End
+### 💼 Voluntária no projeto "App - Eu Visto" atuando no Back-End
 ### 💻 Tecnologias que eu uso:
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
