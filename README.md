@@ -1,4 +1,4 @@
-# Olá! me chamo Aline 👋
+# Olá!☠️
 
 <img src="wojakk.png"/>
 
