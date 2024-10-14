@@ -1,6 +1,6 @@
 # Olá!☠️
 
-<img src="img\wojjak.jpg"/>
+<img src="img\gif.gif"/>
 
 ### 💼 Voluntária no projeto "App - Eu Visto" atuando no Back-End
 ### 💻 Tecnologias que eu uso:
