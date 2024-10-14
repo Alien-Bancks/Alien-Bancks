@@ -1,6 +1,6 @@
 # Olá!☠️
 
-<img src="wojakk.png"/>
+<img src="wojjakk.png"/>
 
 ### 💼 Voluntária no projeto "App - Eu Visto" atuando no Back-End
 ### 💻 Tecnologias que eu uso:
