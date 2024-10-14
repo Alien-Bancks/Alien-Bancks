@@ -1,6 +1,6 @@
 # Olá!☠️
 
-<img src="img\gif.gif"/>
+<img src="img\hannah.jpg"/>
 
 ### 💼 Voluntária no projeto "App - Eu Visto" atuando no Back-End
 ### 💻 Tecnologias que eu uso:
