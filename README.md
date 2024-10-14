@@ -1,6 +1,6 @@
 # Olá!☠️
 
-<img src="C:\Users\teste\Leidery\wojjak.jpg"/>
+<img src="img\wojjak.jpg"/>
 
 ### 💼 Voluntária no projeto "App - Eu Visto" atuando no Back-End
 ### 💻 Tecnologias que eu uso:
