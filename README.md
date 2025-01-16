@@ -24,4 +24,4 @@ Entusiasta de tecnologia e desenvolvimento back-end, com foco em **Python**, **F
   <a href="https://www.instagram.com/leidery_bac0n"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-### 🎶 Metal | 👽 Curiosa | 🧩 Criativa | 🎨 Arte & Design
+### 🎶 | 👽 | 🧩  | 🎨 
