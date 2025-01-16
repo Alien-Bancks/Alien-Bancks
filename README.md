@@ -2,8 +2,7 @@
 
 ![Texto alternativo](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9892934f-6880-48f7-82ff-918430f875c9/d9vllht-88fd3c58-3ee1-4c5c-b213-20bf199c9abb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk4OTI5MzRmLTY4ODAtNDhmNy04MmZmLTkxODQzMGY4NzVjOVwvZDl2bGxodC04OGZkM2M1OC0zZWUxLTRjNWMtYjIxMy0yMGJmMTk5YzlhYmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XtNPPmuipDGMzQAK163_W0zVqgZPbDk4c6Sf3-DdnYs)
 
-
-### 💼 Voluntária no projeto "App - Eu Visto" (Back-End)
+### 💼 Membro do projeto "App - Eu Visto" (Back-End)
 
 ### 💻 Tecnologias que uso:
 <p align="left">
@@ -15,10 +14,15 @@
 </p>
 
 ### ✨ Sobre mim
-Entusiasta de tecnologia e desenvolvimento back-end. Estudo Análise e Desenvolvimento de Sistemas, focando em Python, FastAPI e práticas de versionamento com Git.
+Entusiasta de tecnologia e desenvolvimento back-end, com foco em **Python**, **FastAPI** e **Go**. Estudo **Análise e Desenvolvimento de Sistemas** e sempre em busca de aprender novas tecnologias. Amo explorar e criar soluções inovadoras!
 
 ### 📫 Como me encontrar:
 <p align="left">
   <a href="mailto:alinebancks2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/aline-bancks-5877421a4/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/+5541985159059"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/ale_cremer"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/alecremer"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+### 🎶 Metal | 👽 Curiosa | 🧩 Criativa | 🎨 Arte & Design
