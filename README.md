@@ -14,7 +14,7 @@
 </p>
 
 ### ✨ Sobre mim
-Entusiasta de tecnologia e desenvolvimento back-end, com foco em **Python**, **FastAPI** e **Go**. Estudo **Análise e Desenvolvimento de Sistemas** e sempre em busca de aprender novas tecnologias. Amo explorar e criar soluções inovadoras!
+Entusiasta de tecnologia e desenvolvimento back-end, com foco em **Python**, **FastAPI**. Estudo **Análise e Desenvolvimento de Sistemas** e sempre em busca de aprender novas tecnologias. Amo explorar e criar soluções inovadoras!
 
 ### 📫 Como me encontrar:
 <p align="left">
