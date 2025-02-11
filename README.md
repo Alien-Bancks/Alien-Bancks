@@ -22,7 +22,6 @@ I’ve also got a personal project on the side, where I’m able to put what I�
 <p align="left">
   <a href="mailto:alinebancks2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/aline-bancks-5877421a4/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://t.me/+5541985159059"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 ### 🎶 | 👽 | 🧩  | 🎨 
