@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### ✨ About me:
-I’m a Back-End Development intern working on the "App - Eu Visto" project, mainly focusing on Python and FastAPI. Right now, I’m diving into AI fundamentals, IoT, and Raspberry Pi as part of my studies in Systems Analysis and Development. I’m always up for learning new technologies and finding cool ways to solve problems! 
-
-I’ve also got a personal project on the side, where I’m able to put what I’m learning into practice and create something fun and useful. Always exploring new tools and tech stacks to keep up with this fast-paced development world. Oh, and I’m all about Linux for both my dev work and daily tasks. 🖥️
 
 ### 📫 How to reach me:
 <p align="left">
