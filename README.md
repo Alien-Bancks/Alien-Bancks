@@ -2,6 +2,14 @@
 
 **Desenvolvedora Backend | Python | PHP | Laravel | SQL Server | Linux | Windows**
 
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alien-bancks&theme=onedark&column=8&margin-w=10&margin-h=10&no-frame=true&title=Repositories,Followers,Issues,Commit" />
+</p>
+
+---
+
 ### 💻 Tecnologias que eu uso:
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -14,13 +22,13 @@
 
 ---
 
-### 📊 **Estatísticas de GitHub**
+### 📊 **Estatísticas do GitHub**
 
 Aqui estão algumas estatísticas sobre minhas contribuições no GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alien-bancks&show_icons=true&count_private=true&hide_title=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alien-bancks&layout=compact&theme=radical&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alien-bancks&layout=compact&theme=radical&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alien-bancks&show_icons=true&count_private=true&hide_title=true&theme=radical" width="45%" />
 </p>
 
 ---
@@ -33,21 +41,16 @@ Aqui estão algumas estatísticas sobre minhas contribuições no GitHub:
 
 ---
 
-### 🎮 **Cobrinha dos Commits!**  
-Aqui está a animação dos meus commits no GitHub!
-
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 🌟 **Sobre Mim**
-
-Como desenvolvedora Backend, tenho experiência com várias linguagens e ferramentas de programação. Trabalho principalmente com **Python**, **PHP**, **Laravel**, **SQL Server** e gosto de me desafiar a resolver problemas complexos no backend. Tenho experiência com diferentes ambientes, incluindo **Linux** e **Windows**.
-
-Minha paixão é trabalhar com back-end e construir sistemas robustos e escaláveis. Em meu tempo livre, adoro explorar novas tecnologias e melhorar minhas habilidades!
+<p align="center">
+  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/main/src/images/animated-github-contribution-graph.gif" width="100%" />
+</p>
 
 ---
 
-**Se você gostou, fique à vontade para explorar meu perfil e entrar em contato!**
+
