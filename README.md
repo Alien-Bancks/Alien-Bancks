@@ -1,4 +1,4 @@
-# 👋 Olá, sou Aline Bancks!
+# ⭐ Olá,
 
 **Desenvolvedora Backend | Python | PHP | Laravel | SQL Server | Linux | Windows**
 
