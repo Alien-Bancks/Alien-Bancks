@@ -1,5 +1,5 @@
 # ⭐ Olá,
-
+<img src = "https://f8n-ipfs-production.imgix.net/QmT7XAJdaengvxZ3mRSkFongCTxNtS3kwnhqMGEFyD9gzq/nft.gif">
 **Desenvolvedora Backend | Python | PHP | Laravel | SQL Server | Linux | Windows**
 
 ---
