@@ -1,6 +1,9 @@
 # Turning coffee into code,
 #### I am a person who loves exploring new technologies, as long as I can learn I will be happy absorbing as much as I can, both in the wonderful world of technology and outside.
-<img src = "https://i.pinimg.com/originals/c7/8f/6f/c78f6f101e903249c6015710fbc73a6a.gif">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/c7/8f/6f/c78f6f101e903249c6015710fbc73a6a.gif">
+</p>
+
 <h3 align="center">
   <strong> Developer | <em>PHP</em> 🐘 | <em>Python</em> 🐍</strong>
 </h3>
