@@ -1,5 +1,5 @@
 # ⭐ Olá,
-<img src = "https://f8n-ipfs-production.imgix.net/QmT7XAJdaengvxZ3mRSkFongCTxNtS3kwnhqMGEFyD9gzq/nft.gif">
+<img src = "https://i.pinimg.com/originals/c7/8f/6f/c78f6f101e903249c6015710fbc73a6a.gif">
 **Desenvolvedora Backend | Python | PHP | Laravel | SQL Server | Linux | Windows**
 
 ### integrante do projeto EuVisto - App (e-commerce)
