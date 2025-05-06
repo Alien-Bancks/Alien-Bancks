@@ -22,7 +22,7 @@
 
 ---
 
-### Technologies that I also Know
+### Technologies that I also Know and i'm starting to learn
 
 #### Languages ┗( ＾0＾)┓
 <p align="left">
