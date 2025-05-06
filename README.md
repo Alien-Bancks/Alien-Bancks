@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-#### Databases (ง ͡° ͜ʖ ͡°)=/̵͇̿̿/’̿’̿̿̿ ̿ ̿̿
+#### Databases ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 <p align="left">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
