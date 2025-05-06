@@ -1,9 +1,8 @@
-# ⭐ Olá,
+# Turning coffee into code,
 <img src = "https://i.pinimg.com/originals/c7/8f/6f/c78f6f101e903249c6015710fbc73a6a.gif">
-**Desenvolvedora Backend | Python | PHP | Laravel | SQL Server | Linux | Windows**
+ Backend Developer | Python | PHP | Laravel | SQL Server | Linux | Windows
 
-### integrante do projeto EuVisto - App (e-commerce)
-
+### Part of EuVisto, a personal e-commerce app project with my team
 ---
 
 <p align="center">
@@ -12,7 +11,7 @@
 
 ---
 
-### 💻 Tecnologias que eu uso:
+### My Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -24,9 +23,7 @@
 
 ---
 
-### 📊 **Estatísticas do GitHub**
-
-Aqui estão algumas estatísticas sobre minhas contribuições no GitHub:
+### 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alien-bancks&layout=compact&theme=radical&count_private=true" width="45%" />
@@ -35,7 +32,7 @@ Aqui estão algumas estatísticas sobre minhas contribuições no GitHub:
 
 ---
 
-### 📫 Como me encontrar:
+### Relevant Links 
 <p align="left">
   <a href="mailto:alinebancks2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/aline-bancks-5877421a4/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
