@@ -57,12 +57,13 @@
 
 ---
 
-### 📊 **GitHub Stats**
+<h3 align="center">📊 <strong>GitHub Stats</strong></h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alien-bancks&layout=compact&theme=radical&count_private=true" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=alien-bancks&show_icons=true&count_private=true&hide_title=true&theme=radical" width="45%" />
 </p>
+
 
 ---
 
