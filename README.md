@@ -1,8 +1,11 @@
 # Turning coffee into code,
+#### I am a person who loves exploring new technologies, as long as I can learn I will be happy absorbing as much as I can, both in the wonderful world of technology and outside.
 <img src = "https://i.pinimg.com/originals/c7/8f/6f/c78f6f101e903249c6015710fbc73a6a.gif">
- Backend Developer | Python | PHP | Laravel | SQL Server | Linux | Windows
+✨ Developer | *PHP* 🐘 (primary) | *Python* 🐍 | See my README for more tech!
 
-### Part of EuVisto, a personal e-commerce app project with my team
+### Part of *EuVisto*, a team-built e-commerce app project
+### Working with *PHP* & *Python* 
+
 ---
 
 <p align="center">
@@ -11,15 +14,37 @@
 
 ---
 
-### My Technologies
+### Technologies that I also Know
+
+#### Languages ┗( ＾0＾)┓
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FF0000?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COBOL-00599C?style=for-the-badge&logo=cobol&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
+
+#### Tools & Frameworks ಥ ͜ʖ ͡ಥ
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Linux-FF0000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+#### Databases (ง ͡° ͜ʖ ͡°)=/̵͇̿̿/’̿’̿̿̿ ̿ ̿̿
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+
+
+
 
 ---
 
@@ -32,11 +57,18 @@
 
 ---
 
-### Relevant Links 
+### Relevant Links ( *ﾉωﾉ)
+
 <p align="left">
-  <a href="mailto:alinebancks2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/aline-bancks-5877421a4/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:alinebancks2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aline-bancks-5877421a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
+
 
 ---
 
