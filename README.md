@@ -4,11 +4,40 @@
   <img src="https://i.pinimg.com/originals/b2/3a/90/b23a908ae01021bc1064937bad061b11.gif">
 </p>
 
-
-
 <h3 align="center">
   <strong> Developer | <em>PHP</em> 🐘 | <em>Python</em> 🐍</strong>
 </h3>
+
+## Quem sou com base no **Big Five**, o teste de personalidade mais validado cientificamente 🔬 [Saiba mais](https://bigfive-test.com).
+
+###  **Abertura: 80%**  
+![Abertura](https://img.shields.io/badge/Abertura-80%25-%2300C4B4?style=plastic&logo=palette&logoColor=white)  
+████████ 80%  
+Criatividade
+
+###  **Conscienciosidade: 70%**  
+![Conscienciosidade](https://img.shields.io/badge/Conscienciosidade-70%25-%236A5ACD?style=plastic&logo=check-circle&logoColor=white)  
+███████ 70%  
+Autocontrole
+
+###  **Extroversão: 60%**  
+![Extroversão](https://img.shields.io/badge/Extroversão-60%25-%23FF6F61?style=plastic&logo=rocket&logoColor=white)  
+██████ 60%  
+Sociabilidade
+
+###  **Amabilidade: 85%**  
+![Amabilidade](https://img.shields.io/badge/Amabilidade-85%25-%23FF69B4?style=plastic&logo=heart&logoColor=white)  
+█████████ 85%  
+Agradabilidade.
+
+###  **Neuroticismo: 40%**  
+![Neuroticismo](https://img.shields.io/badge/Neuroticismo-40%25-%23FFD700?style=plastic&logo=cloud&logoColor=white)  
+████ 40%  
+Neuroticismo: tendência a sentir emoções negativas.
+
+---
+
+
 
 
 ### Part of *EuVisto*, a team-built e-commerce app project
