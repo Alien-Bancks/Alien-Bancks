@@ -8,13 +8,13 @@
   <strong> Developer | <em>PHP</em> 🐘 | <em>Python</em> 🐍</strong>
 </h3>
 
-### Quem sou com base no **Big Five**, o teste de personalidade mais validado cientificamente 🔬 [Saiba mais](https://bigfive-test.com).
+### Who I am based on the **Big Five**, the most scientifically validated personality test 🔬 [Learn more](https://bigfive-test.com).
 
-|  **Abertura** |  **Conscienciosidade** |  **Extroversão** |  **Amabilidade** |  **Neuroticismo** |
-|:---------------:|:-----------------------:|:-----------------:|:-----------------:|:------------------:|
-| ![Abertura](https://img.shields.io/badge/Abertura-80%25-%2300C4B4?style=plastic&logo=palette&logoColor=white) | ![Conscienciosidade](https://img.shields.io/badge/Conscienciosidade-70%25-%236A5ACD?style=plastic&logo=check-circle&logoColor=white) | ![Extroversão](https://img.shields.io/badge/Extroversão-60%25-%23FF6F61?style=plastic&logo=rocket&logoColor=white) | ![Amabilidade](https://img.shields.io/badge/Amabilidade-85%25-%23FF69B4?style=plastic&logo=heart&logoColor=white) | ![Neuroticismo](https://img.shields.io/badge/Neuroticismo-40%25-%23FFD700?style=plastic&logo=cloud&logoColor=white) |
+| **Openness** | **Conscientiousness** | **Extraversion** | **Agreeableness** | **Neuroticism** |
+|:------------:|:--------------------:|:---------------:|:-----------------:|:--------------:|
+| ![Openness](https://img.shields.io/badge/Openness-80%25-%2300C4B4?style=plastic&logo=palette&logoColor=white) | ![Conscientiousness](https://img.shields.io/badge/Conscientiousness-70%25-%236A5ACD?style=plastic&logo=check-circle&logoColor=white) | ![Extraversion](https://img.shields.io/badge/Extraversion-60%25-%23FF6F61?style=plastic&logo=rocket&logoColor=white) | ![Agreeableness](https://img.shields.io/badge/Agreeableness-85%25-%23FF69B4?style=plastic&logo=heart&logoColor=white) | ![Neuroticism](https://img.shields.io/badge/Neuroticism-40%25-%23FFD700?style=plastic&logo=cloud&logoColor=white) |
 | ████████ 80% | ███████ 70% | ██████ 60% | █████████ 85% | ████ 40% |
-| Criatividade | Autocontrole | Sociabilidade | Agradabilidade | Tendência a emoções negativas |
+| Creativity | Self-control | Sociability | Agreeableness | Tendency to negative emotions |
 
 ---
 
@@ -92,16 +92,8 @@
 </p>
 
 
----
-
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/main/src/images/animated-github-contribution-graph.gif" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alien-bancks&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
 ---
