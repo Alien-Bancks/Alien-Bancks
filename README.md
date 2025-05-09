@@ -1,5 +1,5 @@
 ### Code, Projects, and Continuous Learning
-#### I am a person who loves exploring new technologies, as long as I can learn I will be happy absorbing as much as I can, both in the wonderful world of technology and outside.
+#### Hi, my name is Aline, I am a person who loves exploring new technologies, as long as I can learn I will be happy absorbing as much as I can, both in the wonderful world of technology and outside.
 <p align="center">
   <img src="https://i.pinimg.com/originals/b2/3a/90/b23a908ae01021bc1064937bad061b11.gif">
 </p>
