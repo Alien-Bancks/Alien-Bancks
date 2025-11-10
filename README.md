@@ -1,57 +1,55 @@
-<!-- 🦇 Aline Bancks - Gothic Tech Edition -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&duration=4000&color=B30059&center=true&vCenter=true&width=600&lines=⚙️+Aline+Bancks;Developer+of+Shadows+%26+Systems;Curiosity+is+My+Fuel" />
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&duration=4000&color=B30059&center=true&vCenter=true&width=600&lines=⚙️+Aline+Bancks;Desenvolvedora+de+Sombras+%26+Sistemas;A+Curiosidade+é+Meu+Combustível" />
 </h1>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/5c35db1764a78b8af5ec6adbe9bde808/tumblr_p3mgf6MJpQ1wn4rgao1_500.gifv" width="250" alt="mystic animation">
+  <img src="https://64.media.tumblr.com/087ed86a6ff4e81c80db79caf5691f7d/fc32f451af7c49ea-d0/s500x750/5b251bb13c031d488f8fa3d6cfebe824b305c5c7.gifv" width="250" alt="mystic animation">
 </p>
 
 ---
 
-### 🕯️ About Me  
+### 🕯️ Sobre mim  
 
-> “Between logic and chaos, I write systems that think.”  
 
-I'm a developer passionate about the **back end world**, where structure meets creativity.  
-I love exploring **new languages**, testing **AI locally**, and building **modular systems** that actually *feel alive*.  
-My journey in tech isn’t about one language — it’s about *mastering the way of learning itself*.  
+Sou uma desenvolvedora apaixonada pelo **universo back-end**, onde estrutura encontra criatividade.  
+Gosto de explorar **novas linguagens**, testar **IA localmente** e criar **sistemas modulares** que realmente *parecem vivos*.  
+Minha jornada na tecnologia não gira em torno de uma só linguagem, é sobre *dominar a arte de aprender*
 
-I experiment with:
--  **Artificial Intelligence & RAG systems** (local inference, embeddings, and FastAPI integration)
--  **Back End development** (Python, PHP, PostgreSQL, and automation)
--  **System Architecture** and **data organization**
--  A curiosity that never dies — I learn *anything* that challenges me
+Exploro e experimento com:
+-  **Inteligência Artificial e sistemas RAG** (inferência local, embeddings e integração com FastAPI)  
+-  **Desenvolvimento Back End** (Python, PHP, PostgreSQL e automação)  
+-  **Arquitetura de sistemas** e **organização de dados**  
+-  Uma curiosidade que nunca morre, aprendo *qualquer coisa* que me desafie  
 
 ---
 
-### Tech Arsenal  
+###  Arsenal Técnico  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,fastapi,flask,postgres,mysql,docker,linux,windows,html,css,vscode,git" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Energy-Dark%20Mode-black?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Philosophy%20of%20Code-Curiosity-red?style=for-the-badge&logo=undertale&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Integration-Local%20RAG-purple?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Energia%20do%20Código-Dark%20Mode-black?style=for-the-badge&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Filosofia%20do%20Código-Curiosidade-red?style=for-the-badge&logo=undertale&logoColor=white" />
+  <img src="https://img.shields.io/badge/Integração%20IA-RAG%20Local-purple?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-### 🕷️ Featured Projects  
+### Projetos em Destaque  
 
-| Project | Description | Tech Stack |
+| Projeto | Descrição | Tecnologias |
 |:--------|:-------------|:------------|
-| **🜂 EuVisto** | Group-built e-commerce app focused on structure and integration | PHP • MySQL • API REST |
-| **🜃 Local AI Core** | API compatible with OpenAI format running Phi-3 Mini locally | Python • FastAPI • PostgreSQL • pgvector |
-| **🜁 Central Custo** | Modular backend for financial data management | Python • Automation • Docker |
-| **🜄 Influence AI** | Personal model designed to interact with external tools | Python • Embeddings • RAG |
+| **🜂 EuVisto** | Aplicação e-commerce criada em grupo com foco em estrutura e integração | PHP • MySQL • API REST |
+| **🜃 Local AI Core** | API compatível com o formato da OpenAI rodando o Phi-3 Mini localmente | Python • FastAPI • PostgreSQL • pgvector |
+| **🜁 Central Custo** | Backend modular para gerenciamento de dados financeiros | Python • Automação • Docker |
+| **🜄 Influence AI** | Modelo pessoal projetado para interagir com ferramentas externas | Python • Embeddings • RAG |
 
 ---
 
-###  GitHub Stats  
+###  Estatísticas  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alien-bancks&show_icons=true&theme=midnight-purple&hide_border=true" width="45%" />
@@ -66,7 +64,7 @@ I experiment with:
 
 ---
 
-### 🦋 Connect with me  
+### Conecte-se comigo  
 
 <p align="center">
   <a href="mailto:alinebancks2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -79,5 +77,3 @@ I experiment with:
 <p align="center">
   <img src="https://i.pinimg.com/originals/1b/24/2e/1b242e2cf1198f81ee2f9819fbd45ee8.gif" width="200">
 </p>
-
-
