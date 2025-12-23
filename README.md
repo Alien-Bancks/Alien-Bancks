@@ -1,8 +1,3 @@
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&duration=4000&color=B30059&center=true&vCenter=true&width=600&lines=⚙️+Aline+Bancks;Desenvolvedora+de+Sombras+%26+Sistemas;A+Curiosidade+é+Meu+Combustível" />
-</h1>
-
 <p align="center">
   <img src="https://64.media.tumblr.com/087ed86a6ff4e81c80db79caf5691f7d/fc32f451af7c49ea-d0/s500x750/5b251bb13c031d488f8fa3d6cfebe824b305c5c7.gifv" width="250" alt="mystic animation">
 </p>
