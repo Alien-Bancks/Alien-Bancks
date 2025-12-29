@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://64.media.tumblr.com/6cdf93e9530fe98bf79f8038c04b9422/7e18fc25c1e6d4a3-00/s540x810/9d00c3324d1effb5e7a56897e72b853c398e60a8.gif" width="200" style="border-radius: 10px; margin-bottom: 20px;">
-  
+
   <br>
 
   <a href="https://git.io/typing-svg">
@@ -10,7 +8,7 @@
 
 ---
 
-### 🕯️ About Me
+### About Me
 
 I am a developer passionate about the **back-end universe**, where structure meets creativity.
 I enjoy exploring **new languages**, testing **local AI**, and creating **modular systems** that truly *feel alive*.
